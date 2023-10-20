@@ -1,6 +1,10 @@
 # Guide for a SmartCard User Logon In AD (Active Directory)
 
 **This writeup guides you how to authenticate yourself on a Windows server 2019 with a SmardCard**
+<p align="center">
+  <img src="pics/smartcard.jpeg" />
+</p>
+
 
 ## Step 1. Create a user in AD [1]
 ![step 1](pics/createUser1.png)
