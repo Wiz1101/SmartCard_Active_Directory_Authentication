@@ -27,24 +27,44 @@ Finally configure Issuance Requirements
 
 
 ## Step 4. Add Enrollment Agent certificate in certification manager utility  
+First You have to open a certification manager utility by typing certmgr.msc in RUN and then you can request a new certificate
 ![step 4](pics/CertificateEnrollment/pic1.png)
+
+Enroll Enrollment agent certificate
 ![step 4](pics/CertificateEnrollment/pic2.png)
+
+Final result
 ![step 4](pics/CertificateEnrollment/pic3.png)
 
 ## Step 5. Enroll a certificate for a SmartCard user  
-![step 4](pics/CertificateEnrollment/pic4.png)
-![step 4](pics/CertificateEnrollment/pic5.png)
-![step 4](pics/CertificateEnrollment/pic6.png)
-![step 4](pics/CertificateEnrollment/pic7.png)
-![step 4](pics/CertificateEnrollment/pic8.png)
-![step 4](pics/CertificateEnrollment/pic9.png)
-![step 4](pics/CertificateEnrollment/pic10.png)
-![step 4](pics/CertificateEnrollment/pic11.png)
-![step 4](pics/CertificateEnrollment/pic12.png)
+![step 5](pics/CertificateEnrollment/pic4.png)
 
+Click Next
+![step 5](pics/CertificateEnrollment/pic5.png)
 
+Click Next
+![step 5](pics/CertificateEnrollment/pic6.png)
 
+Click Browse and accept certificate for Certificate Request Agent
+![step 5](pics/CertificateEnrollment/pic7.png)
 
+Click Next
+![step 5](pics/CertificateEnrollment/pic8.png)
+
+Select the SmartCard user duplicate certificate you created and click Next
+![step 5](pics/CertificateEnrollment/pic9.png)
+
+Select the test user you created for the certificate and click Enroll
+![step 5](pics/CertificateEnrollment/pic10.png)
+
+Connect your SmartCard
+![step 5](pics/CertificateEnrollment/pic11.png)
+
+Enter your SmartCard PIN, which should be 0000 by default
+![step 5](pics/CertificateEnrollment/pic12.png)
+
+Finally you can change the SmartCard PIN by hitting ctlr+alt+delete and then changing a password
+![step 5](pics/CertificateEnrollment/pic13.png)
 
 
 
