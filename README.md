@@ -13,7 +13,7 @@ Choose the name for the template certificate
 ![step 2](pics/pic3.png)
 ![step 2](pics/pic4.png)
 
-Give Read, Write and Enroll permissions to both Authenticated users and Administrators
+Give Read, Write and Enroll permissions to both Authenticated and Administrators users
 ![step 2](pics/pic5.png)
 ![step 2](pics/pic6.png)
 
@@ -26,11 +26,11 @@ Finally configure Issuance Requirements
 ![step 3](pics/pic10.png)
 
 
-## Step 4. Add Enrollment Agent certificate in certification manager utility  
+## Step 4. Add Enrollment Agent certificate in personal certificates 
 First You have to open a certification manager utility by typing certmgr.msc in RUN and then you can request a new certificate
 ![step 4](pics/CertificateEnrollment/pic1.png)
 
-Enroll Enrollment agent certificate
+Enroll "Enrollment agent" certificate
 ![step 4](pics/CertificateEnrollment/pic2.png)
 
 Final result
