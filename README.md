@@ -24,3 +24,20 @@ Finally configure Issuance Requirements
 ![step 3](pics/pic8.png)
 ![step 3](pics/pic9.png)
 ![step 3](pics/pic10.png)
+
+
+## Step 4. Enable Enrollment Agent certificate 
+![step 3](pics/pic8.png)
+![step 3](pics/pic9.png)
+![step 3](pics/pic10.png)
+
+
+
+
+
+
+
+
+## References
+
+https://www.youtube.com/watch?v=zuOnoM6kfZY&t=1s&ab_channel=Tech%26ComputerStuff
