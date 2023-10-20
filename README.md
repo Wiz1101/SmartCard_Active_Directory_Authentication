@@ -4,6 +4,7 @@
 ![step 1](pics/createUser1.png)
 ![step 1](pics/createUser2.png)
 ![step 1](pics/createUser3.png)
+
 ## Step 2. Manage certificates for SmartCard user
 ![step 2](pics/pic1.png)
 ![step 2](pics/pic2.png)
