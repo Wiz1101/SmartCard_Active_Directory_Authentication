@@ -13,10 +13,11 @@ Choose the name for the template certificate
 ![step 2](pics/pic3.png)
 ![step 2](pics/pic4.png)
 
-Give permissions to both Authenticated users and Administrators
+Give Read, Write and Enroll permissions to both Authenticated users and Administrators
 ![step 2](pics/pic5.png)
 ![step 2](pics/pic6.png)
 
 Finally configure Issuance Requirements
 ![step 2](pics/pic7.png)
 
+## Step 3. Manage certificates for SmartCard user
