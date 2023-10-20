@@ -63,7 +63,7 @@ Connect your SmartCard
 Enter your SmartCard PIN, which should be 0000 by default
 ![step 5](pics/CertificateEnrollment/pic12.png)
 
-Finally you can change the SmartCard PIN by hitting ctlr+alt+delete and then changing a password
+Finally you can change the SmartCard PIN by hitting ctlr+alt+delete and then changing a password (Special thanks to Nikita)
 ![step 5](pics/CertificateEnrollment/pic13.png)
 
 
