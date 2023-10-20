@@ -13,7 +13,7 @@ Choose the name for the template certificate
 ![step 2](pics/pic3.png)
 ![step 2](pics/pic4.png)
 
-Give Read, Write and Enroll permissions to both Authenticated and Administrators users
+Give, Read/Write/Enroll permissions to both Authenticated and Administrators users
 ![step 2](pics/pic5.png)
 ![step 2](pics/pic6.png)
 
@@ -36,7 +36,7 @@ Enroll "Enrollment agent" certificate
 Final result
 ![step 4](pics/CertificateEnrollment/pic3.png)
 
-## Step 5. Enroll a certificate for a SmartCard user  
+## Step 5. Enroll a certificate for a SmartCard user [1]. 
 ![step 5](pics/CertificateEnrollment/pic4.png)
 
 Click Next
