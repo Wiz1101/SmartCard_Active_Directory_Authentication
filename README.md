@@ -20,4 +20,7 @@ Give Read, Write and Enroll permissions to both Authenticated users and Administ
 Finally configure Issuance Requirements
 ![step 2](pics/pic7.png)
 
-## Step 3. Manage certificates for SmartCard user
+## Step 3. Enable Enrollment Agent certificate 
+![step 3](pics/pic8.png)
+![step 3](pics/pic9.png)
+![step 3](pics/pic10.png)
