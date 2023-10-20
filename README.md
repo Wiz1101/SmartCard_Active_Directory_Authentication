@@ -1,2 +1,2 @@
-# Guide for Smart Card User Logon In Active Directory
+# Guide for a SmartCard User Logon In Active Directory
 
