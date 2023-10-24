@@ -26,10 +26,12 @@ Give, Read/Write/Enroll permissions to both Authenticated and Administrators use
 Finally configure Issuance Requirements
 ![step 2](pics/pic7.png)
 
-## Step 3. Enable Enrollment Agent certificate 
+## Step 3. Enable Enrollment Agent certificate and Smartcard user certificate you duplicated
 ![step 3](pics/pic8.png)
 ![step 3](pics/pic9.png)
 ![step 3](pics/pic10.png)
+![step 3](pics/pic11.png)
+![step 3](pics/pic12.png)
 
 
 ## Step 4. Add Enrollment Agent certificate in personal certificates 
