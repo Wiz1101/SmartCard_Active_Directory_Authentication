@@ -1,6 +1,6 @@
 # Guide for a SmartCard User Logon in AD (Active Directory)
 
-**This writeup guides you how to authenticate yourself on a Windows server with a SmardCard**
+**This writeup guides you how to configure Windows server authentication with a SmardCard**
 <p align="center">
   <img src="pics/smartcard.jpeg" />
 </p>
